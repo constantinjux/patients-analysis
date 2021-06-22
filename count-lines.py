@@ -1,5 +1,7 @@
 import sys
 
+"""Adding some different sort of documentation here."""
+
 count = 0
 
 for line in sys.stdin:
